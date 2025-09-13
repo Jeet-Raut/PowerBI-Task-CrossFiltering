@@ -32,11 +32,6 @@ The task focuses on understanding and implementing **cross-filtering** in Power 
 - 📊 Sample visuals to showcase relationship effects  
 - 🧭 Interactive exploration of data with cross-filtering  
 
-## 🖼️ Dashboard Preview
-
-  
-> Example:  
-> `![Dashboard Preview](dashboard-preview.png)`
 
 ## 🧠 Learnings
 
