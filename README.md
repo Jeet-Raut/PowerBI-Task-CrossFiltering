@@ -42,4 +42,4 @@ The task focuses on understanding and implementing **cross-filtering** in Power 
 ## 🔗 Connect
 
 - 📧 Email: jeet.rautt@gmail.com
-- 🔗 LinkedIn: [your LinkedIn URL]  
+- 🔗 LinkedIn:   
