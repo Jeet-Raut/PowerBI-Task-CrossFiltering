@@ -34,7 +34,7 @@ The task focuses on understanding and implementing **cross-filtering** in Power 
 
 ## 🖼️ Dashboard Preview
 
-> *(Upload a screenshot of your dashboard and reference it here)*  
+  
 > Example:  
 > `![Dashboard Preview](dashboard-preview.png)`
 
