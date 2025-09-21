@@ -12,7 +12,7 @@ The task focuses on understanding and implementing **cross-filtering** in Power 
 - **File Name:** `cross-filter(Single-both).pbix`  
 - **Date:** July 2025  
 
-## 📌 Objectives
+## 📌 Objectives 
 
 - Understand how cross-filtering works in Power BI  
 - Compare **single-direction vs both-direction filters**  
