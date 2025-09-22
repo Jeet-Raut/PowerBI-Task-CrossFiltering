@@ -4,7 +4,7 @@ This repository contains one of my Power BI projects developed during the **Info
 The task focuses on understanding and implementing **cross-filtering** in Power BI, using both single-direction and both-direction filters.
 
 ## 🧠 Project Overview 
- 
+  
 - **Internship:** InfoOrigin (Data Engineering Intern) 
 - **Task:** Power BI – Cross Filtering (Single vs Both)  
 - **Author:** Jeetu Raut  
