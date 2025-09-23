@@ -10,7 +10,7 @@ The task focuses on understanding and implementing **cross-filtering** in Power 
 - **Author:** Jeetu Raut  
 - **Tool Used:** Power BI Desktop (.pbix)
 - **File Name:** `cross-filter(Single-both).pbix`  
-- **Date:** July 2025  
+- **Date:** July 2025
 
 ## 📌 Objectives 
 
