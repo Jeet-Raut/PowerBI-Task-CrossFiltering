@@ -5,7 +5,7 @@ The task focuses on understanding and implementing **cross-filtering** in Power 
 
 ## 🧠 Project Overview
 
-- **Internship:** InfoOrigin (Data Engineering Intern)
+- **Internship:** InfoOrigin (Data Engineering Intern) 
 - **Task:** Power BI – Cross Filtering (Single vs Both) 
 - **Author:** Jeetu Raut  
 - **Tool Used:** Power BI Desktop (.pbix)
